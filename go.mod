@@ -1,4 +1,4 @@
-module common
+module github.com/caihuahang8/common
 
 go 1.15
 
